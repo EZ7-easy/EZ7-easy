@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/geniusTechie"><img src="https://github-readme-stats.vercel.app/api?username=geniusTechie&hide_border=true&show_icons=true" alt="geniusTechie's github stats"></a>
+  <a href="https://github.com/EZ7-easy"><img src="https://github-readme-stats.vercel.app/api?username=EZ7-easy&hide_border=true&show_icons=true" alt="M1lo's github stats"></a>
 </p>
 
 <h3>🔍 Where to find me</h3>
