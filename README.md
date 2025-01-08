@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Shop Project with admin panel**
 
-- 🤝 I’m looking for help with **Your projects**
+- 🤝 I’m looking for help with **Projects**
 
 - 👨‍💻 All of my projects are available at [m1lo0709.uz](m1lo0709.uz)
 
-- 📝 I regularly write articles on [Telegram channel](Telegram channel)
+- 📝 I regularly write articles on Telegram channel
 
 - 💬 Ask me about **NextJS, ReactJS, Node and ExpressJS**
 
