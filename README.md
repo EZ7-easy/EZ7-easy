@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EZ7-easy&show_icons=true&locale=en" alt="EZ7-easy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EZ7-easy&" alt="EZ7-easy" /></p>
+
