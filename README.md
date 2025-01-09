@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Algorithms**
 
-- 👯 I’m looking to collaborate on **Shop Project with admin panel**
+- 👯 I’m looking to collaborate on **ASK250**
 
 - 🤝 I’m looking for help with **Projects**
 
