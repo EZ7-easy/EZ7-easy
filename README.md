@@ -35,8 +35,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://github/EZ7-easy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github/EZ7-easy" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ez7-easy&show_icons=true&locale=en&layout=compact" alt="ez7-easy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EZ7-easy&show_icons=true&locale=en&layout=compact" alt="EZ7-easy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ez7-easy&show_icons=true&locale=en" alt="ez7-easy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EZ7-easy&show_icons=true&locale=en" alt="EZ7-easy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ez7-easy&" alt="ez7-easy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EZ7-easy&" alt="EZ7-easy" /></p>
