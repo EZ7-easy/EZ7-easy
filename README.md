@@ -23,7 +23,7 @@
 
 - 🗿 My Bro https://github.com/Asl250
 
-- ⚡ Fun fact **I love My friend's girls :)**
+- ⚡ Fun fact **I love Gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
