@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://github.com/EZ7-easy](https://github.com/EZ7-easy)
 
-- ⚡ Fun fact **I love Gaming :)**
+- ⚡ Fun fact **I love My friend's girls :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
