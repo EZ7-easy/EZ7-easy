@@ -21,6 +21,8 @@
 
 - 📄 Know about my experiences [https://github.com/EZ7-easy](https://github.com/EZ7-easy)
 
+- 🗿 My Bro https://github.com/Asl250
+
 - ⚡ Fun fact **I love My friend's girls :)**
 
 <h3 align="left">Connect with me:</h3>
